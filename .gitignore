@@ -1,0 +1,9 @@
+__pycache__
+NIfTI
+templates
+DATA
+DATA_ORD_1
+DATA_ORD_2
+PPMI
+.conda
+model.pth
